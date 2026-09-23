@@ -1,4 +1,4 @@
-/*! Copyright © 2026 Tiffany Schuman, doing business as Vynxcode All Rights Reserved. 
+/*! Copyright © 2026 Tiffany Schuman. 
 Licensed under the Vynxcode Proprietary License. 
 See LICENSE for details */
 
